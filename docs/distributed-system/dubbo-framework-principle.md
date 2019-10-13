@@ -36,8 +36,8 @@
 你的请求用什么样的方式来组织发送过去呢？以一个什么样的格式来发送你的请求？
 
 http协议，/demoService/sayHello?name=leo
-####rmi，另外一种样子
-####dubbo协议，interface=demoService|method=sayHello|params=name:leo
+rmi，另外一种样子
+dubbo协议，interface=demoService|method=sayHello|params=name:leo
 
 信息交换：Exchange，Request和Response
 
